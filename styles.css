@@ -1,0 +1,16 @@
+body{
+    font-family: monospace;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color: blueviolet;
+    color:aliceblue;
+    padding: 4px 12px;
+    text-align: center;
+}
+li{
+    background-color:white ;
+    color:black;
+}
